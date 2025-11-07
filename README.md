@@ -10,7 +10,7 @@
 
 ## <picture><img src = "https://miro.medium.com/1*8EyCzF39J-8EwDHOKw3UPA.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMXI4BCmTibAdbgv496B1qqBJDKCbkGzB9UA&s" width = 250px></picture>
+<picture> <img align="right" src="https://media.tenor.com/5VS-IFgI7egAAAAM/tweandhank-cute.gif" width = 250px></picture>
 
 <br>
 
