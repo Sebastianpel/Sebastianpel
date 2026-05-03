@@ -15,8 +15,10 @@
 <br>
 
 - A passionate Student Front-end and Back-end developer
-- Currently studying as a Software Developer
-- I’m currently open for an Intern or a new job opportunity, this is [my resume]()
+- Currently about to graduate as a Software Developer Specialist
+- These are some of the projects I've worked in:
+  https://github.com/GerardoA23/Proyecto_ArqSoftware
+  https://github.com/DavDevf/software2-proyecto
 
 <br><br>
 
